@@ -1,0 +1,1 @@
+# El ejercicio 6 esta en Ejercico5.py
